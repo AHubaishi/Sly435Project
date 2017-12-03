@@ -1,0 +1,82 @@
+body{
+		margin: 			2px 0;
+		color:				#480000;
+		background-color:	 #480000;
+		font-size:			11pt;
+		font-family: 		verdana, tahoma, arial, sans-serif;
+	}
+	
+#container {
+		width:				1000px;
+		margin:				0 auto;
+		background-color:	#ffffff;
+		padding:			4px 15px 0 15pc;
+		border:				2px solid #996633;
+	}
+img {
+		border:				1px solid #000000;
+		-webkit-border-radius:	20px;
+		-moz-border-radius:	20px;
+		border-radius:		20px;
+		display:			block;
+		margin-left:		auto;
+		margin-right: 		auto;
+	}
+		
+.center {
+	text-align: 			center;
+}
+
+.menuitems {
+	font-weight:			bold;
+	color: 					#480000;
+	}
+	
+.tablectr {
+	margin-left:			auto;
+	margin-right:			auto;
+	}
+.CenterBlue{
+	color:					#480000;
+	text-align:				center;
+	}
+	
+.left{
+	float:					left;
+	width:					480px;
+}
+.right{
+	float:					right;
+	width:					480px;
+}
+
+.clear{	
+	clear:					both;
+}
+.blue{
+	color:				white;
+	}
+select,input {
+	background-color: 	#480000;
+	color: 				white;
+	}
+
+.tablectr{
+	margin-left:		auto;
+	margin-right:		auto;
+	}
+.CenterBlue{
+	color:				#480000;
+	text-align:			center;
+}
+
+.tablename{
+		margin-left:		auto;
+		margin-right:		auto;
+		}
+.tablephone{
+		margin-left:		auto;
+		margin-right:		auto;
+		}
+	
+	
