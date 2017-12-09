@@ -99,4 +99,7 @@ select,input {
     display: block;
 }
 	
-	
+.imgs{
+	width: 400px;
+    height: auto;
+}
