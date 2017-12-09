@@ -102,4 +102,8 @@ select,input {
 .imgs{
 	width: 400px;
     height: auto;
+	border:	1px solid #000000;
+	border-radius:	5px;
 }
+
+
