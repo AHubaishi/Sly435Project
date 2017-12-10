@@ -19,7 +19,7 @@
 		
 	<div id="container">
 	<p><img src="header.jpg" alt="photo of inside of CIS 122 restaurant"></p>
-
+	<a href="review.php"> Click Here</a> to rate your experince here. 
 	
 	<?php
 	$firstname = $_POST['firstname'];	
